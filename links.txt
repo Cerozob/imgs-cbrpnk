@@ -1,0 +1,4 @@
+heaven      = https://raw.githubusercontent.com/Cerozob/imgs-cbrpnk/main/heaven.png
+ladrillo    = https://raw.githubusercontent.com/Cerozob/imgs-cbrpnk/main/ladrillo.png
+reloj       = https://raw.githubusercontent.com/Cerozob/imgs-cbrpnk/main/reloj.jpg
+viajazo     = https://raw.githubusercontent.com/Cerozob/imgs-cbrpnk/main/viajazo.png
